@@ -1,0 +1,24 @@
+modules/hal_nordic/nrfx/CMakeFiles/modules__hal_nordic__nrfx.dir/D_/toolchain/v1.9.1/modules/hal/nordic/nrfx/mdk/system_nrf52840.c.obj: \
+ D:/toolchain/v1.9.1/modules/hal/nordic/nrfx/mdk/system_nrf52840.c \
+ C:/Users/RP/Desktop/Semaphores/build_nrf52840dk_nrf52840/zephyr/include/generated/autoconf.h \
+ D:/toolchain/v1.9.1/zephyr/include/toolchain/zephyr_stdint.h \
+ D:/toolchain/v1.9.1/modules/hal/nordic/nrfx/mdk/system_nrf52.c \
+ D:/toolchain/v1.9.1/zephyr/lib/libc/minimal/include/stdint.h \
+ D:/toolchain/v1.9.1/zephyr/lib/libc/minimal/include/stdbool.h \
+ D:/toolchain/v1.9.1/modules/hal/nordic/nrfx/mdk/nrf.h \
+ D:/toolchain/v1.9.1/modules/hal/nordic/nrfx/mdk/nrf52840.h \
+ D:/toolchain/v1.9.1/modules/hal/cmsis/CMSIS/Core/Include/core_cm4.h \
+ D:/toolchain/v1.9.1/modules/hal/cmsis/CMSIS/Core/Include/cmsis_version.h \
+ D:/toolchain/v1.9.1/modules/hal/cmsis/CMSIS/Core/Include/cmsis_compiler.h \
+ D:/toolchain/v1.9.1/modules/hal/cmsis/CMSIS/Core/Include/cmsis_gcc.h \
+ D:/toolchain/v1.9.1/modules/hal/cmsis/CMSIS/Core/Include/mpu_armv7.h \
+ D:/toolchain/v1.9.1/modules/hal/nordic/nrfx/mdk/system_nrf52840.h \
+ D:/toolchain/v1.9.1/modules/hal/nordic/nrfx/mdk/nrf52840_bitfields.h \
+ D:/toolchain/v1.9.1/modules/hal/nordic/nrfx/mdk/nrf51_to_nrf52840.h \
+ D:/toolchain/v1.9.1/modules/hal/nordic/nrfx/mdk/nrf52_to_nrf52840.h \
+ D:/toolchain/v1.9.1/modules/hal/nordic/nrfx/mdk/compiler_abstraction.h \
+ D:/toolchain/v1.9.1/modules/hal/nordic/nrfx/mdk/nrf_peripherals.h \
+ D:/toolchain/v1.9.1/modules/hal/nordic/nrfx/mdk/nrf52840_peripherals.h \
+ D:/toolchain/v1.9.1/modules/hal/nordic/nrfx/mdk/nrf52_erratas.h \
+ D:/toolchain/v1.9.1/modules/hal/nordic/nrfx/mdk/system_nrf52.h \
+ D:/toolchain/v1.9.1/modules/hal/nordic/nrfx/mdk/system_nrf52_approtect.h
